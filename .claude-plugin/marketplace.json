@@ -1,0 +1,5 @@
+{
+  "name": "review-queue",
+  "owner": { "name": "pksublime" },
+  "plugins": [{ "name": "review-queue", "source": "./" }]
+}

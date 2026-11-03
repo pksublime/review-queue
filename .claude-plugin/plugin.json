@@ -1,0 +1,6 @@
+{
+  "name": "review-queue",
+  "version": "0.1.0",
+  "description": "A side pane of a PR's review findings and comments, worked one at a time with /next-comment. Never posts to GitHub.",
+  "types": "./types/index.d.ts"
+}
